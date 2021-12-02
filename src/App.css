@@ -1,5 +1,6 @@
 body {
-  background-color: #000000;
+  background-color: darkolivegreen;
+  /* background-color: #000000; */
 }
 
 .grid {
@@ -11,6 +12,7 @@ body {
 .box {
   width: auto;
   height: 100px;
+  /* background-color:lightcyan; */
   display: flex;
   justify-content: center;
   align-items: center;
